@@ -1,0 +1,9 @@
+matplotlib==3.8.2
+matplotlib-inline==0.1.6
+numpy==1.26.3
+pandas==2.1.4
+pyroomacoustics==0.7.3
+python-sofa==0.2.0
+requests==2.31.0
+scipy==1.11.4
+soundfile==0.12.1

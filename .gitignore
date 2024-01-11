@@ -1,0 +1,11 @@
+G_eval*.npy
+.ipynb_checkpoints/
+__pycache__/
+weightMatrix/
+*.eps
+drv_sigs/
+exp_answer.csv
+exp_order.csv
+exp_n_list.npy
+.DS_Store
+figs/
