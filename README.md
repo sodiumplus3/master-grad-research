@@ -1,7 +1,7 @@
 ## はじめに
 - このフォルダのコードは2021年度修士卒業生Keisuke Kimuraの研究に用いられたものです。
-- コードは基本的にすべてJupyter Notebook形式で書かれています。
-- Python3.11で動作確認済みです。
+- コードは基本的にJupyter Notebook形式で書かれています。
+- Python3.11.7で動作確認済みです。
 
 
 ## ファイル構成
@@ -22,8 +22,8 @@
 |---|---|
 |NumSim.ipynb|提案法と従来法の比較，時間領域駆動信号フィルタ生成など| 
 |SubExp.ipynb|主観評価実験の分析|
-|posSrc230.csv|230のスピーカ配置の座標|
-|exp\_answer.csv<br>exp\_n\_list.npy<br>exp\_order.csv|主観評価実験の結果|
+|posSrc230.csv|Room230のスピーカ配置の座標|
+|exp\_answer.csv<br>exp\_n\_list.npy<br>exp\_order.csv|主観評価実験の結果（非公開）|
 |calc\_data|駆動信号，HRTF，WMMの重みなど，計算済みデータ|
 |drv\_sigs|32chスピーカアレイ再生用の駆動信号|
 |sample_music|サンプル音源(MUSDB18-HQ)|
